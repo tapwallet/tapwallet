@@ -93,7 +93,7 @@
     "message": "Create a password"
   },
   "Type__your__Unisat__password": {
-    "message": "Type your Tap Wallet password"
+    "message": "Type your TAP Wallet password"
   },
   "Invalid__amount": {
     "message": "Invalid amount"
@@ -111,7 +111,7 @@
     "message": "Export Private Key"
   },
   "appName": {
-    "message": "Tap Wallet"
+    "message": "TAP Wallet"
   },
   "Payment__Faild": {
     "message": "Payment Faild"
@@ -243,7 +243,7 @@
     "message": "Password must contain at least 5 characters"
   },
   "appDescription": {
-    "message": "Inscribe and store your inscriptions in the world's first Open Source Chrome wallet for Ordinals! "
+    "message": "Inscribe, store and transfer inscriptions on the world's first open source Chrome wallet for the Tap protocol! "
   },
   "If__you__ever__change__browsers__or__move__computers": {
     "message": "If you ever change browsers or move computers"
