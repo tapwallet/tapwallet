@@ -93,7 +93,7 @@
     "message": "Create a password"
   },
   "Type__your__Unisat__password": {
-    "message": "Type your TAP Wallet password"
+    "message": "Type your Universe password"
   },
   "Invalid__amount": {
     "message": "Invalid amount"
@@ -111,7 +111,7 @@
     "message": "Export Private Key"
   },
   "appName": {
-    "message": "TAP Wallet"
+    "message": "Universe"
   },
   "Payment__Faild": {
     "message": "Payment Faild"
@@ -243,7 +243,7 @@
     "message": "Password must contain at least 5 characters"
   },
   "appDescription": {
-    "message": "Inscribe, store and transfer inscriptions on the world's first open source Chrome wallet for the Tap protocol! "
+    "message": "Inscribe, store and transfer BRC-20, Bitmaps  Runes, Stamps & TAP Ordinals (TAP;DMT;UNATs) on 🆄🅽🅸🆅🅴🆁🆂🅴, the most advanced Bitcoin multi-protocol wallet."
   },
   "If__you__ever__change__browsers__or__move__computers": {
     "message": "If you ever change browsers or move computers"
@@ -267,7 +267,7 @@
     "message": "You will use this to unlock your wallet"
   },
   "Imported__accounts__will__not__be__associated__with__your__originally__created__Unisat__account__Secret__Recovery__Phrase": {
-    "message": "Imported accounts will not be associated with your originally created Tap Wallet account Secret Recovery Phrase"
+    "message": "Imported accounts will not be associated with your originally created Universe account Secret Recovery Phrase"
   },
   "Login": {
     "message": "Login"
